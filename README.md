@@ -12,7 +12,7 @@ C++ libraries, games, graphics tools and embedded projects.
 - **[tinywfc](https://github.com/varnholt/tinywfc)** — Wave function collapse for 2D and 3D grids. Socket rules, backtracking and parallel restarts assemble a procedural city. [Try it live ↗](https://varnholt.github.io/tinywfc/)
 - **[tinysubdiv](https://github.com/varnholt/tinysubdiv)** — Loop subdivision for triangle meshes in one header, with seam welding and a browser testbed. [Try it live ↗](https://varnholt.github.io/tinysubdiv/)
 - **[tinypsd](https://github.com/varnholt/tinypsd)** — Read Photoshop layers, groups, composite images and paths. Bounds checked, fuzzed, and available in C++ and Rust.
-- **[tinyeasings](https://github.com/varnholt/tinyeasings)** — Thirty easing curves in one dependency-free C++23 header, with compile-time evaluation and runtime selection.
+- **[tinyeasings](https://github.com/varnholt/tinyeasings)** — Thirty easing curves in one dependency-free C++23 header, with compile-time evaluation and runtime selection. [Try it live ↗](https://varnholt.github.io/tinyeasings/)
 
 ## Games & engines
 
@@ -23,7 +23,7 @@ C++ libraries, games, graphics tools and embedded projects.
 ## Tools & applications
 
 - **[tilezeitjobb](https://github.com/varnholt/tilezeitjobb)** — A pixel and tile editor for the NES. Draw with hardware palettes, arrange sprites and export a runnable ROM. [Try it live ↗](https://varnholt.github.io/tilezeitjobb/)
-- **[oneam](https://github.com/varnholt/oneam)** — A small cross-platform comic reader with background decoding, page prefetching and a built-in archive backend. [Try it live ↗](https://varnholt.github.io/oneam/)
+- **[one:am](https://github.com/varnholt/oneam)** — A small cross-platform comic reader with background decoding, page prefetching and a built-in archive backend. [Try it live ↗](https://varnholt.github.io/oneam/)
 - **[OpenGL Blending](https://github.com/varnholt/opengl_blending)** — A visual workbench for blend factors and equations. Try your own textures and copy the corresponding OpenGL calls. [Try it live ↗](https://varnholt.github.io/opengl_blending/)
 - **[agent-baton](https://github.com/varnholt/agent-baton)** — Let coding agents exchange verified facts and wait on repository events without a human relaying messages.
 - **[clang-tidy-gui](https://github.com/varnholt/clang-tidy-gui)** — A small interface for run-clang-tidy.py. Select patches and apply them sequentially to avoid conflicting changes.
@@ -31,7 +31,7 @@ C++ libraries, games, graphics tools and embedded projects.
 ## Hardware & embedded
 
 - **[tokiboks](https://github.com/varnholt/tokiboks)** — An RFID music player for toddlers. Tap an album card; four colored buttons control playback and a sleep timer.
-- **[TouchGFX projects](https://github.com/varnholt/touchgfx_projects)** — An embedded chess clock project built with TouchGFX.
+- **[TouchGFX projects](https://github.com/varnholt/touchgfx_projects)** — A touchscreen chess clock for the STM32F769I-DISCO, with time-control presets, Fischer increments and a printable enclosure.
 
 ## More projects
 
